@@ -1,5 +1,5 @@
 # resident-drink-preferences
-##Drink Preferences of Surrounding Residents
+## Drink Preferences of Surrounding Residents
 
 This program can be used to analyze consumer data based on location 
 as it implements basic object-oriented programming. By creating a program 
